@@ -1,4 +1,19 @@
-header{
+*{
+    margin: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cabeçalho{
     background-color: #1AAFA6;
     color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.cabeçalho-imagem{
+    width: 15%;
+}
+.cabeçalho-item{
+    display: inline-block;
+    font-size: 24px;
+    padding: 48px;
+    
 }
