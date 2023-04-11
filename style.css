@@ -1,6 +1,6 @@
 *{
     margin: 0%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 .cabeçalho{
     background-color: #1AAFA6;
@@ -16,4 +16,23 @@
     font-size: 24px;
     padding: 48px;
     
+}
+.cabeçalho-nome{
+    padding: 50px;
+}
+.escola{
+    background-color:#1AAFA6;
+    color: white;
+    font-size: 24px;
+    padding: 100px 50px;
+    background-image: linear-gradient(#1AAFA6,white);
+}
+.escola-titulo{
+    padding: 24px;
+}
+.escola-texto{
+    padding: 15px;
+}
+.escola-imagem{
+    width: 30%;
 }
